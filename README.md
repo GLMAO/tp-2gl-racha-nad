@@ -30,7 +30,7 @@ Tous les tests fournis dans `TpTests.java` ont été exécutés avec Maven et so
 
 ```bash
 mvn test
-
+```
 # Résultat attendu
 
 **Tests exécutés :** 3  
@@ -45,7 +45,7 @@ mvn test
 
 **BUILD SUCCESS**
 
-![Diagramme UML des design patterns](C:\Users\user\Pictures\Saved Pictures\uml_design_patterns.png)
+
 
 # Analyse des principes de conception logicielle
 
