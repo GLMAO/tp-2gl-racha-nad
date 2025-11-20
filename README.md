@@ -45,7 +45,7 @@ mvn test
 
 **BUILD SUCCESS**
 
-
+![Diagramme UML des design patterns](C:\Users\user\tp-2gl-racha-nad\diagramme.png)
 
 # Analyse des principes de conception logicielle
 
